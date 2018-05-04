@@ -1,0 +1,11 @@
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\obj\Debug\ShootThemUp.Properties.Resources.resources
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\obj\Debug\ShootThemUp.csproj.GenerateResource.cache
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\obj\Debug\ShootThemUp.csproj.CoreCompileInputs.cache
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\bin\Debug\ShootThemUp.exe.config
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\bin\Debug\ShootThemUp.exe
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\bin\Debug\ShootThemUp.pdb
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\obj\Debug\ShootThemUp.exe
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\obj\Debug\ShootThemUp.pdb
+c:\users\axetel\source\repos\ShootThemUp\ShootThemUp\obj\Debug\ShootThemUp.Form1.resources
+C:\Users\axetel\source\repos\ShootThemUp\ShootThemUp\obj\Debug\ShootThemUp.csprojResolveAssemblyReference.cache
+C:\Users\axetel\source\repos\ShootThemUp\ShootThemUp\obj\Debug\ShootThemUp.GameOver.resources
