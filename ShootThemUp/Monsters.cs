@@ -5,7 +5,7 @@ using System.Drawing;
 namespace ShootThemUp
 {
     /*
-     * The monster class set img to monster,move monste,shoot(when boss will be implemented),receive damage 
+     * The monster class set img to monster,move monster,shoot(when boss will be implemented),receive damage 
      */
     class Monsters : Character
     {
@@ -52,7 +52,7 @@ namespace ShootThemUp
             return bullet;
         }
 
-        public override void move(String monsterDir)//TO DO add algo to follow player ? 
+        public override void move(String monsterDir)//TO DO add algo to follow player 
         {
             /*for now we only have left move for the monster 
              */

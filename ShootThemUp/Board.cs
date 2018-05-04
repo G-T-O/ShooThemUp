@@ -61,7 +61,7 @@ namespace ShootThemUp
             label1.Text=(player.LifePlayer/10).ToString();
 
         }
-        static public void setLabelKill(Label label3)//show the kill of the player 
+        static public void setLabelKill(Label label3)//show the number of monster killed by the player 
         {
             label3.Text = monsterKill.ToString();
         }
@@ -77,7 +77,7 @@ namespace ShootThemUp
 
         static public bool m_hasWin(Player player,List<Monsters> monsters)
         {
-            hasWin = !monsters.Any();
+            hasWin = !monsters.Any();// if there is no monster left 
             return hasWin;
         }
 
