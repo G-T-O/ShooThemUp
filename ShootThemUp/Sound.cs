@@ -3,7 +3,7 @@ using System.Windows;
 namespace WindowsFormsApp1
     /*
      * Class sound who will play background sound / shoot sound / damage receive
-     * the class SoundPlayer can produce 2 songs at the same time even in a thread 
+     * the class SoundPlayer can't produce 2 songs at the same time even in a thread 
      */
 {
     class Sound
